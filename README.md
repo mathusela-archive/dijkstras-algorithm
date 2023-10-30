@@ -4,4 +4,4 @@
 
 ---
 
-C++ dijkstra's algorithm implementation.
+C++ Dijkstra's algorithm implementation.
